@@ -1,8 +1,4 @@
 
-ddddd
-
-
-
 storage = {}
 
 def init_storage(user_id):
