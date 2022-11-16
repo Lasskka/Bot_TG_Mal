@@ -1,4 +1,7 @@
+import telebot 
+from telebot import types
 
+bot = telebot.TeleBot(os.environ.get('BOT_TOKEN'))
 
 storage = {}
 
